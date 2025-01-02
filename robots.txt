@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://datokindojp.github.io/sensa/sitemap.xml
